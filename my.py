@@ -1,7 +1,7 @@
 
 from colorama import Fore,Back,Style
 
-print(Back.WHITE + Fore.BLACK + Style.BRIGHT + "-------------------------simple calculeter------------------------" + Style.RESET_ALL + Fore.RESET + Back.RESET)
+print(Back.WHITE + Fore.BLACK + Style.BRIGHT + "-------------------------simple calculater------------------------" + Style.RESET_ALL + Fore.RESET + Back.RESET)
 
 print()
 
